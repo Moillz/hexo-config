@@ -32,16 +32,11 @@ $ hexo g
 $ hexo server
 ```
 
-7.publish 发布文章
-```bash
-$ hexo publish [layout] <filename>
-```
 
-8.deploy 部署
+7.deploy 部署
 
-```bash
-$ hexo deploy
-```
+部署使用netlify的free方案，按照教程一步一步来配置
+
 
 
 
